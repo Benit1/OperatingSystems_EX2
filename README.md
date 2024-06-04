@@ -41,4 +41,4 @@ ls -l | grep txt | wc
 cat makefile
 
 in the zip you can find all the c files we mentioned , h file for partB , makefile and 2 txt files for you to run.
-have a nice checking :)
+
